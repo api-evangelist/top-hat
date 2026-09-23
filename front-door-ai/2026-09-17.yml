@@ -1,0 +1,26 @@
+# Front Door AI Index — top-hat — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: top-hat
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: tophat.com
+  final_host: tophat.com
+  ownership: own
+  owner: top-hat
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 9
+  host_score: 9
+  density: 14.63
+  words: 615
+  tiers:
+    agentic: 2
+    core: 7
+    model: 0
+  ambiguous: 0
+  top_terms:
+    AI: 7
+    AI assistant: 2
