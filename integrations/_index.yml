@@ -45,3 +45,33 @@
     detected: '2026-10-14'
   status: not-a-workflow
   arazzo: null
+- slug: top-hat-govramp
+  label: GovRAMP
+  partner_name: GovRAMP
+  category: GovRAMP participation
+  type: register
+  channel: standard-directory
+  evidence: https://govramp.org/program-participants
+  source: edge
+  relationship: standard-participant
+  contract_reference:
+    register: GovRAMP Program Participants (govramp.org/program-participants)
+    standard: GovRAMP
+    spec_file: null
+    role: govramp-participant
+    registered_name: Tophatmonocle
+    register_id: SS24041
+    matched_domain: tophat.com
+    matched_by: domain
+    domain_source: contact-email
+    statuses:
+    - Progressing
+    offerings:
+    - Aktiv
+    - Top Hat
+    signal_note: certified_products = one entry per AUTHORIZED impact level (Authorized / Provisionally Authorized),
+      never per offering; Progressing / Pending / Ready / Core are participation only
+    detected_by: sweep-gov-cloud.py
+    detected: '2026-10-15'
+  status: not-a-workflow
+  arazzo: null
